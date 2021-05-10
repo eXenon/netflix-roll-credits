@@ -1,8 +1,8 @@
 {
-  "name": "Netflix - Roll Credits",
+  "name": "__MSG_extensionName__",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Let credits roll at the end of Netflix movies",
+  "description": "__MSG_extensionDescription__",
   "homepage_url": "https://github.com/eXenon/netflix-roll-credits",
   "icons": {
     "16": "icons/icon16.png",

@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "Netflix - Roll Credits",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Lassen Sie Credits am Ende von Netflix-Filmen bis zum Ende spielen. ",
+        "description": "Description of the extension."
+    }
+}

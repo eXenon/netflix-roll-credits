@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "Netflix - Roll Credits",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Evitez l'interruption du générique de fin sur Netflix.",
+        "description": "Description of the extension."
+    }
+}
